@@ -52,7 +52,7 @@ npm start
 
 Incluir ejemplos prácticos con capturas de pantalla si es necesario.
 
-![Captura de Pantalla](ruta/a/captura.png)
+![Captura de Pantalla](BackSpringPrueba/img/Conexion Base de Datos.png)
 
 ## Contribución
 
@@ -70,15 +70,8 @@ Incluir ejemplos prácticos con capturas de pantalla si es necesario.
 - Documenta tu código.
 - Asegúrate de que el proyecto funcione correctamente después de tus cambios.
 
-## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
-
-## Contacto
-
-**Nombre del Autor** - [tu_email@example.com](mailto:tu_email@example.com)
-
-Perfil de GitHub: [https://github.com/tu_usuario](https://github.com/tu_usuario)
+Perfil de GitHub: [https://github.com/tu_usuario](https://github.com/stevenbenalcazar)
 
 ---
 
