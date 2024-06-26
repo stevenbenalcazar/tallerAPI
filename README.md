@@ -5,7 +5,7 @@ Shander Sandoval
 
 # TallerApi
 
-![Logo del Proyecto](ruta/al/logo.png)
+![Logo del Proyecto](BackSpringPrueba/img/Escudo_uce.png)
 
 Breve descripción del proyecto, explicando su propósito y funcionalidad.
 
