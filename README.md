@@ -1,2 +1,4 @@
-# tallerAPI
-taller programación distribuida
+# Taller RestAPI
+Integrantes:
+Steven Benalcazar
+Shander Sandoval
