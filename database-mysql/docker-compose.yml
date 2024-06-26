@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  mysql-server:
+    image: mysql:5.7
+    container_name: DB_MYSQL
+    environment:
+      MYSQL_ROOT_PASSWORD: "admin"
+      MYSQL_DATABASE: app_db
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./mysqlserver_data:/var/lib/mysql
+    networks:
+      - my-network
+networks:
+  my-network:
